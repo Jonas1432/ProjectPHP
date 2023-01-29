@@ -1,0 +1,22 @@
+#nav {
+    text-decoration: none;
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 2px;
+    transition: background-size .3s;
+  }
+  #nav:hover, #nav:focus {
+    background-size: 100% 2px;
+    color: #7e3763;
+  }
+
+#fondo{
+  background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB346rNWX-9X7Z3o58b7CPk8pF9lgVNi04UtmTHeCIxRNjz3L8f0ivm67oKn5c1UkccEo&usqp=CAU');
+  background-repeat: no-repeat;
+}
+img{
+  display:block;
+margin:auto;
+}
+
